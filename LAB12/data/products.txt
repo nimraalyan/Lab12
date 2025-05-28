@@ -1,0 +1,10 @@
+001,Hair spray,300.0,Cosmetic
+002,Lipstick,1000.0,Cosmetic
+004,Gloss,200.0,Cosmetics
+007,Blush,700.0,Cosmetics
+008,Slanty,100.0,Snacks
+009,Cupcake,20.0,Snacks
+010,Maggie Noodles,200.0,Snacks
+011,Lays,200.0,Snacks
+012,Wavy,200.0,Snacks
+013,Cola next,200.0,Snacks
